@@ -1,14 +1,3 @@
-color:
-  saturation: 0.3893662
-  brandStrength: 0.4924812
-  rhythmicContrast: 0
-  brandColors:
-    - '#01013D'
-    - '#FFFFC0'
-    - '#018891'
-    - '#02BD98'
-    - '#ACD79A'
-  lightness: 0.07894735
 collections:
   - index:
       path: /
@@ -21,6 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.4849624
 typography_spectrum: 0.3055854
+color:
+  saturation: 0.3893662
+  brandStrength: 0
+  lightness: 0.07894735
+  brandColors:
+    - '#01013D'
+    - '#FFFFC0'
+    - '#018891'
+    - '#02BD98'
+    - '#ACD79A'
+  rhythmicContrast: 1
+layout_spectrum: 1
 name: The Art of Whore
